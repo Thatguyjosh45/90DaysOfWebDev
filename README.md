@@ -13,7 +13,7 @@
 - CSS Positioning (`flexbox`, `grid`)  
 
 🔗 **Resources**:  
-- [HTML & CSS Crash Course](https://www.freecodecamp.org/news/html-css-crash-course/)  
+- [HTML & CSS Full Course for free youtube](https://youtu.be/HGTJBPNC-Gw?si=aNl8tXlHeViVgnh3)  
 - [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 
